@@ -1,0 +1,11 @@
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\bin\Debug\Курчсовая.exe.config
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\bin\Debug\Курчсовая.exe
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\bin\Debug\Курчсовая.pdb
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.csproj.AssemblyReference.cache
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.Form1.resources
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.Properties.Resources.resources
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.csproj.GenerateResource.cache
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.csproj.CoreCompileInputs.cache
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.exe
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.pdb
+C:\Users\kbeke\source\repos\Курчсовая\Курчсовая\obj\Debug\Курчсовая.form2.resources
